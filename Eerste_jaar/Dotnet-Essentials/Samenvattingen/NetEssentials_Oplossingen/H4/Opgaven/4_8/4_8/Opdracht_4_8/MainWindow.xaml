@@ -1,0 +1,15 @@
+﻿<Window x:Class="Opdracht_4_8.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Opdracht_4_8"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Name="berekenButton" Content="Bereken" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="54,93,0,0" Click="BerekenButton_Click"/>
+        <Label Name="serieLabel" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="160,90,0,0"/>
+        <Label Name="parallelLabel" Content="" HorizontalAlignment="Left" Margin="160,121,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

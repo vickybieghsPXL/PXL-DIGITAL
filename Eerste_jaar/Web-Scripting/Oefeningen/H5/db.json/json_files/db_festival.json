@@ -1,0 +1,52 @@
+{
+  "performances": [
+    {
+      "id": 1,
+      "name": "The national",
+      "play_date": "2019-08-19",
+      "description": "New-York, Rock, Alternative, Indierock"
+    },
+    {
+      "id": 2,
+      "name": "Post Malone",
+      "play_date": "2019-08-17",
+      "description": "Syracuse, Hiphop"
+    },
+    {
+      "id": 3,
+      "name": "James Blake",
+      "play_date": "2019-08-17",
+      "description": "Londen, Dubstep, Electronica, Soul"
+    },
+    {
+      "id": 4,
+      "name": "Avalon Emerson",
+      "play_date": "2019-08-17",
+      "description": "San Francisco, Techno, Electro, House"
+    },
+    {
+      "id": 5,
+      "name": "Sharon van Etten",
+      "play_date": "2019-08-18",
+      "description": "Singer-songwriter uit New-York, Folk, Indie"
+    },
+    {
+      "id": 6,
+      "name": "The story so far",
+      "play_date": "2019-08-18",
+      "description": "San Francisco, Pop, Punk, Hardcore"
+    },
+    {
+      "id": 7,
+      "name": "Anne-Marie",
+      "play_date": "2019-08-18",
+      "description": "Londen, Pop"
+    },
+    {
+      "id": 9,
+      "name": "Kate Tempest",
+      "play_date": "2019-08-19",
+      "description": "Brockley, Hiphop"
+    }
+  ]
+}

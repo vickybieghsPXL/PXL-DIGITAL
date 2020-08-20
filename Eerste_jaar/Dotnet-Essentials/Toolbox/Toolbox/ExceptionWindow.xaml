@@ -1,0 +1,14 @@
+﻿<Window x:Class="Toolbox.ExceptionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Toolbox"
+        mc:Ignorable="d"
+        Title="ExceptionWindow" Height="386" Width="398.765">
+    <Grid>
+        <Button Name="exceptionButton" Content="Button" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="75" Click="exceptionButton_Click"/>
+        <TextBox Margin="10,35,10,10" TextWrapping="Wrap" Text="    class CustomException : Exception&#xD;&#xA;    {&#xD;&#xA;        public CustomException(string message) : base(message)&#xD;&#xA;        {&#xD;&#xA;        }&#xD;&#xA;    }&#xD;&#xA;======================================&#xD;&#xA;try&#xD;&#xA;            {&#xD;&#xA;                throw new CustomException(&quot;this threw an exception!&quot;);&#xD;&#xA;            }&#xD;&#xA;            catch (Exception ex)&#xD;&#xA;            {&#xD;&#xA;                MessageBox.Show(ex.Message);&#xD;&#xA;            }&#xD;&#xA;            finally&#xD;&#xA;            {&#xD;&#xA;                //do this afterward (i.e. close streams)&#xD;&#xA;            }"/>
+
+    </Grid>
+</Window>

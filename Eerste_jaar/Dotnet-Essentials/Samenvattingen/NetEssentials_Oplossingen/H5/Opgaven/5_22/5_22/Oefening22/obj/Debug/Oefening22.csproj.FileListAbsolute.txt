@@ -1,0 +1,5 @@
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H5\Opgaven\5_22\Oefening22\obj\Debug\Oefening22.csprojResolveAssemblyReference.cache
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H5\Opgaven\5_22\Oefening22\obj\Debug\MainWindow.g.cs
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H5\Opgaven\5_22\Oefening22\obj\Debug\App.g.cs
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H5\Opgaven\5_22\Oefening22\obj\Debug\Oefening22_MarkupCompile.cache
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H5\Opgaven\5_22\Oefening22\obj\Debug\Oefening22_MarkupCompile.lref

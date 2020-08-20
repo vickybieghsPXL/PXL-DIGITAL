@@ -1,0 +1,17 @@
+{
+  "country": [
+    { "id": 1, "name" : "England" },
+    { "id": 2, "name" : "Holland" },
+    { "id": 3, "name" : "France" },
+    { "id": 4, "name" : "Russia" }
+  ],
+  "ship": [
+    { "id": 1, "name": "Greenwich", "speed" : 12, "country_id" : 1 },
+    { "id": 2, "name": "Eendracht", "speed" : 22, "country_id" : 2 },
+    { "id": 3, "name": "Kingfisher", "speed" : 10, "country_id" : 1 },
+    { "id": 4, "name": "Fury", "speed" : 12, "country_id" : 1 },
+    { "id": 5, "name": "Hercule", "speed" : 33, "country_id" : 3 },
+    { "id": 6, "name": "Licorne", "speed" : 33, "country_id" : 3 },
+    { "id": 7, "name": "Arkhangel Gavriil", "speed" : 44, "country_id" : 4 }
+  ]
+}

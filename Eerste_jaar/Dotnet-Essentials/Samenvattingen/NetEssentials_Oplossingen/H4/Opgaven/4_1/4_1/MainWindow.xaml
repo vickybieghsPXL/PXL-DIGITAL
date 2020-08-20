@@ -1,0 +1,11 @@
+﻿<Window x:Class="Area_Rectangle.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Area of Rectangle" Height="160" Width="400">
+    <Grid>
+        <Button Name="calculateButton" Click="calculateButton_Click"
+                Content="Calculate" HorizontalAlignment="Left"
+                Margin="40,50,0,0"
+                VerticalAlignment="Top" Width="75"/>
+    </Grid>
+</Window>

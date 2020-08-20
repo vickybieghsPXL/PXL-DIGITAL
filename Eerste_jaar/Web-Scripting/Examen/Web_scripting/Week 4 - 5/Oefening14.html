@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Formulier met even handler</title>
+    <style>
+        button{
+            margin-left: 10px;
+            width: 120px;
+            margin-right: 20px;
+        }
+        #wijzig_button{
+            color: black;
+        }
+        input{
+            margin-bottom: 10px;
+            width: 200px;
+            display: inline-block;
+        }
+        label{
+            margin-bottom: 10px;
+            margin-right: 20px;
+            display: inline-block;
+            width: 100px;
+            margin-left: 10px;
+        }
+        form{
+            position: absolute;
+        }
+        form h1{
+            position: relative;
+            margin-left: 20%;
+            font-size: large;
+        }
+    </style>
+</head>
+<body>
+<form method="post" enctype="text/plain">
+    <h1>Persoonlijke gegevens</h1>
+    <label>Voornaam</label>
+    <input id="voornaam_input">
+    <br/>
+    <label>Achternaam</label>
+    <input id="achternaam_input">
+    <br/>
+    <label>Adres</label>
+    <input id="adres_input">
+    <br/>
+    <button id="verzend_button">Verzenden</button>
+    <button id="wis_button">Wissen</button>
+    <button id="wijzig_button">Aan het wijzigen</button>
+</form>
+<script src="Oefening14.js"></script>
+</body>
+</html>

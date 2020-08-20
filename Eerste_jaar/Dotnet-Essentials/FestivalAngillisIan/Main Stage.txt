@@ -1,0 +1,7 @@
+B, 3, Rival Sons, 2018201, 13:00, 13:45, 10 , 12, frieten, chips, cola, bier, eigen kleedkamer, ruimte crew, douche
+s, gitaar en zang, Rae Sremmurd, 2018202, 14:20, 15:20, 12 , 6, spaghetti, whiskey, eigen kleedkamer, douche
+B, 5, The Vaccines, 2018205, 16:00, 17:00, 15, 24, broodjes, bier, koffie, douche
+B, 4, Alice In Chains, 2018204, 17:40, 18:40, 20, 10, groenten, water, douche
+B, 3, The Script, 2018206, 19:25, 20:40, 10, 12, warm avondmaal, cola, bier, douche, ruimte crew
+B, 5, Queens Of The Stone Age, 2018207, 21:30, 23:15, 23, 10, warm avondmaal, cola, bier, douche, ruimte crew
+B, 4, Gorillaz, 2018107, 00:15, 01:45, 19, 5, water, warme maaltijd, ruimte crew, extra versterker

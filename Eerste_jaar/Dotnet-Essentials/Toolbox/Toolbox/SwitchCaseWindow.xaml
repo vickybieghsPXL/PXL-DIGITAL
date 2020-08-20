@@ -1,0 +1,24 @@
+﻿<Window x:Class="Toolbox.SwitchCaseWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Toolbox"
+        mc:Ignorable="d"
+        Title="SwitchCaseWindow" Height="253.235" Width="225">
+    <Grid>
+        <TextBlock Margin="10" TextWrapping="Wrap" Text="TextBlock">      switch (caseSwitch)<LineBreak/>
+            {<LineBreak/>
+            case 1:<LineBreak/>
+            Console.WriteLine("Case 1");<LineBreak/>
+            break;<LineBreak/>
+            case 2:<LineBreak/>
+            Console.WriteLine("Case 2");<LineBreak/>
+            break;<LineBreak/>
+            default:<LineBreak/>
+            Console.WriteLine("Default case");<LineBreak/>
+            break;<LineBreak/>
+            }</TextBlock>
+
+    </Grid>
+</Window>

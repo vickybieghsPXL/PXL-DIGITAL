@@ -1,0 +1,14 @@
+﻿<Window x:Class="Toolbox.Inheritance.InheritanceWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Toolbox.Inheritance"
+        mc:Ignorable="d"
+        Title="InheritanceWindow" Height="170" Width="170">
+    <Grid>
+        <Canvas Name="paperCanvas" Margin="10,10,10,36" Background="#FFA8A8A8"/>
+        <Label Content="Subclass  :  SuperClass" Margin="10,0,10,5" VerticalAlignment="Bottom"/>
+
+    </Grid>
+</Window>

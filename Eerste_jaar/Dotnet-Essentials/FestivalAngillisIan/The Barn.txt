@@ -1,0 +1,3 @@
+S, zang, Angèle, 2018220, 13:55, 14:30, 2 , 2, groenten, water, douche
+B, 2, First Aid Kit, 2018222, 18:10, 19:10, 5 , 3, broodjes, bier, eigen kleedkamer, douche
+S, zang, Sigrid, 2018225, 19:50, 20:35, 1, 2, frieten, water, koffie, douche

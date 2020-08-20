@@ -1,0 +1,26 @@
+COMMANDO'S ROUTERINSTELLINGEN
+
+* show ip interface brief:	Toont IP-adressen van interfaces
+* enable:			Naar de exec mode
+	* show run:			Toon huidige configuratie
+	* conf t (configure terminal):	Configuratiemode
+		* interface <naam router> <poort voor te configureren>: configureer deze poort
+		= interface gigabitethernet 0/0/0 ==> verkorte versie
+			* ip address <ip address> <subnetmask>:	Geef deze poort een ip address en het subnet mask
+			* no shutdown:			Zorg dat de poort open blijft	
+			* exit:				Ga uit de poortconfig
+		* hostname <naam>:		Geef de router een naam
+		* line console 0: 		Lokale toegang beperken tot router/switch
+			* password <passwoord>:		geef een wachtwoord aan de exec mode
+			* login:			Voer het wachtwoord door
+		* line vty 0 3:			stel telnet op (0 3 staat voor het aantal gebruikers dat tegelijk hierop kan)
+			* password <passwd>
+			* login
+		* enable secret PXL:		Zet een wachtwoord op de exec mode
+		* service password-encryption:	Zorgt ervoor dat de wachtwoorden niet meer getoond worden bij "show run"
+		* banner motd <"Tekst bij startup">:	Geef een banner
+		* copy run start		Opslaan van de configuratie
+		* reload:			Herstart de router
+		* erase startup-config		Wis heel de configuratie, inclusief de ip-addressen
+
+ARP mac adressen tabel

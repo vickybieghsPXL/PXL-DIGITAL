@@ -1,0 +1,16 @@
+﻿<Window x:Class="Toolbox.DictionaryWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Toolbox"
+        mc:Ignorable="d"
+        Title="DictionaryWindow" Height="164.233" Width="401.825">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="92,13,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Name="searchTextBox"/>
+        <Button Content="Zoeken" HorizontalAlignment="Left" Margin="217,13,0,0" VerticalAlignment="Top" Width="167" Name="searchButton" Click="SearchButton_Click"/>
+        <Label Content="Getal (1-26):" HorizontalAlignment="Left" Margin="9,9,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.711,0.346" Width="78"/>
+        <Label Content="" HorizontalAlignment="Left" Margin="92,43,0,0" VerticalAlignment="Top" Height="53" Width="120" FontWeight="Bold" FontSize="35" HorizontalContentAlignment="Center" Name="resultLabel"/>
+        <Label Content="Getal word gebruikt als index om de geassocieerde letter te vinden:" HorizontalAlignment="Left" Margin="9.307,100.905,0,0" VerticalAlignment="Top" Width="378.401" Height="34.299" UseLayoutRounding="False"/>
+    </Grid>
+</Window>

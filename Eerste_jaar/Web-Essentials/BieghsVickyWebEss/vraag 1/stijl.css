@@ -1,0 +1,82 @@
+
+body{
+	background-image: url(assets/bgimage.png);
+	background-color: #2A2A37;
+	color: white;
+	background-attachment: fixed;
+}
+
+nav{
+	background-color: #F46036;
+	font: arial 8em;
+}
+nav ul{
+    display: inline-block;
+    margin: 0;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    padding-left: 30px;
+    list-style: none;
+    width: : 85%;
+}
+nav li a{
+    color: white;
+    text-decoration: none;
+    font-size: large;
+    font-weight: bold;
+}
+nav li a:hover{
+	text-decoration: underline;
+}
+nav li{
+    display: inline-block;
+    padding-left: 60px;
+    margin-top: 18px;
+}
+footer{
+	background-color: #F46036;
+}
+footer ul{
+	display: inline-block;
+	list-style: none;
+	margin: 0;
+	position: center;
+}
+p a{
+	color: #F46036;
+}
+body ul li{
+	display: inline-block;
+	list-style: none;
+}
+body content{
+	padding-left: 90px;
+	padding-right: 90px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	width: 85%;
+}
+
+
+
+div label{
+	float:left;
+	padding-right: 20%;
+
+}
+div input{
+	
+
+}
+.email{
+	width: 400px;
+}
+.vraag{
+	width: 400px;
+	height: 100px;
+}
+/* classes */
+.footerimg{
+	display: inline-block;
+}
+

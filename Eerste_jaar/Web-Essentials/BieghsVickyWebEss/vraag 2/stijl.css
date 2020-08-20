@@ -1,0 +1,111 @@
+/* Onderstaande CSS mag NIET aangepast worden */
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("assets/background.jpg");
+    background-size: 100% 100%;
+}
+header {
+    text-align: center;
+    padding: 10px 0;
+    background-color: rgba(238, 238, 238, 0.48);
+}
+
+.contentwrapper {
+    width: 1100px;
+    margin: 0 auto;
+}
+
+footer {
+    background-color: rgba(105, 108, 119, 0.4);
+    padding: 20px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+.clear {
+    clear: both;
+}
+#pagetitle {
+    font-size: 40px;
+    font-family: fantasy;
+}
+/* Boven deze lijn mogen er geen aanpassingen worden gemaakt! */
+
+
+/* START OEFENING: */
+/* Vanaf dit deze lijn mogen er dingen aangepast worden */
+
+/* Navigation */
+nav {
+    float: left;
+    width: 200px;
+    background-color: burlywood;
+}
+
+/* Main content */
+main {
+    width: 550px;
+    float: left;
+}
+article {
+    width: 173px;
+    background-color: #dddddd;
+    float: left;
+}
+article img{
+    max-width: 150px;
+}
+
+.extrainfo {
+    display: none;
+}
+
+/* Asides */
+aside {
+    width: 350px;
+    float: right;
+    background-color: #666d8b;
+    color: white;
+}
+aside img {
+    width: 300px;
+}
+@media only screen and (min-width: 1200px) {
+    nav ul li{
+        list-style: none;
+        font-weight: bold;
+        font-size: 20px;
+        margin-top: 5px;   
+    }
+    nav ul li:hover{
+        color: #a9a9a9;
+    }
+    aside{
+        text-align: center;
+    }
+    h3 span{
+        color: #87d388;
+    }
+    p span{
+        color: #26a9ff;
+        font-size: 150%;
+    }
+}
+@media only screen and (max-width: 1200px) {
+    main{
+        width: 60%;
+    }
+}
+@media only screen and (max-width: 650px) {
+    main{
+        width: 90%;
+        margin: 0px;
+    }
+    aside .floatingelementright{
+        visibility: hidden;
+    }
+}

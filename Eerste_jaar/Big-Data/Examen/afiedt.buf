@@ -1,0 +1,9 @@
+create or replace function dagen_einde_maand
+return number
+as
+    v_dagen number;
+begin
+    v_dagen := last_day(sysdate) - sysdate;
+    return v_dagen;
+end;
+/

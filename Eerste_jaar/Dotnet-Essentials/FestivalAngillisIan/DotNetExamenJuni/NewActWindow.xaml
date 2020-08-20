@@ -1,0 +1,31 @@
+﻿<Window x:Class="DotNetExamenJuni.NewActWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DotNetExamenJuni"
+        mc:Ignorable="d"
+        Title="Add Act" Height="350.505" Width="300">
+    <Grid>
+        <RadioButton x:Name="bandRadioButton" Content="Band" GroupName="performanceGroup" 
+                     IsChecked="True" HorizontalAlignment="Left" Margin="47,34,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.037,-1.041" Checked="BandRadioButton_Checked"/>
+        <RadioButton x:Name="soloRadioButton" Content="Solo" GroupName="performanceGroup" HorizontalAlignment="Left" Margin="150,34,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.244,1.561" Checked="SoloRadioButton_Checked"/>
+        <Label x:Name="typeCountLabel" Content="Members" HorizontalAlignment="Left" Margin="33,55,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="typeCountTextBox" HorizontalAlignment="Left" Height="23" Margin="116,59,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+
+        <Label x:Name="nameLabel" Content="Name" HorizontalAlignment="Left" Margin="33,86,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="numberLabel" Content="Reservation" HorizontalAlignment="Left" Margin="33,117,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="startHourLabel" Content="Start hour" HorizontalAlignment="Left" Margin="33,148,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="endHourLabel" Content="End hour" HorizontalAlignment="Left" Margin="33,179,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="technicalLabel" Content="Technical stuff" HorizontalAlignment="Left" Margin="33,210,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="riderLabel" Content="Rider" HorizontalAlignment="Left" Margin="33,240,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="nameTextBox" HorizontalAlignment="Left" Height="23" Margin="116,86,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="numberTextBox" HorizontalAlignment="Left" Height="23" Margin="116,112,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="startHourTextBox" HorizontalAlignment="Left" Height="23" Margin="116,148,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="endHourTextBox" HorizontalAlignment="Left" Height="23" Margin="116,183,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="technicalTextBox" HorizontalAlignment="Left" Height="23" Margin="116,214,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="riderTextBox" HorizontalAlignment="Left" Height="23" Margin="116,244,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="AddActButton" Content="Add" HorizontalAlignment="Left" Margin="115,290,0,0" VerticalAlignment="Top" Width="75" Click="AddActButton_Click" />
+
+    </Grid>
+</Window>

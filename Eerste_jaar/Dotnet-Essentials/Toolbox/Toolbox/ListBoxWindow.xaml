@@ -1,0 +1,30 @@
+﻿<Window x:Class="Toolbox.ListBoxWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Toolbox"
+        mc:Ignorable="d"
+        Title="ListBoxWindow" Height="383.645" Width="231.347">
+    <Grid>
+
+        <ListBox Name="shoppingListBox" HorizontalAlignment="Left" Height="145" Margin="10,10,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Name="Load" Content="Load" HorizontalAlignment="Left" Margin="90,10,0,0" VerticalAlignment="Top" Width="120" Click="Load_Click"/>
+        <Button Name="Add" Content="Add" HorizontalAlignment="Left" Margin="90,234,0,0" VerticalAlignment="Top" Width="120" Click="Add_Click"/>
+        <Button Name="Clear" Content="Clear" Margin="90,35,0,0" VerticalAlignment="Top" Click="Clear_Click" HorizontalAlignment="Left" Width="120"/>
+        <Button Name="Contains" Content="Contains" HorizontalAlignment="Left" Margin="10,259,0,0" VerticalAlignment="Top" Width="75" Click="Contains_Click"/>
+        <Button Name="IndexOf" Content="IndexOf" HorizontalAlignment="Left" Margin="90,209,0,0" VerticalAlignment="Top" Width="120" Click="IndexOf_Click" Background="#FF81E847"/>
+        <Button Name="LastIndexOf" Content="LastIndexOf" HorizontalAlignment="Left" Margin="10,209,0,0" VerticalAlignment="Top" Width="75" Click="LastIndexOf_Click" Background="#FF81E847"/>
+        <Button Name="Remove" Content="Remove" Margin="90,60,0,0" VerticalAlignment="Top" Click="Remove_Click" HorizontalAlignment="Left" Width="120"/>
+        <Button Name="RemoveAt" Content="RemoveAt" Margin="90,85,0,0" VerticalAlignment="Top" Click="RemoveAt_Click" HorizontalAlignment="Left" Width="120"/>
+        <Button Name="Insert" Content="Insert" Margin="90,259,0,0" VerticalAlignment="Top" Click="Insert_Click" HorizontalAlignment="Left" Width="120"/>
+        <Button Name="Sort" Content="Sort" Margin="90,135,0,0" VerticalAlignment="Top" Click="Sort_Click" HorizontalAlignment="Left" Width="120"/>
+        <Button Name="Reverse" Content="Reverse" Margin="90,110,0,0" VerticalAlignment="Top" Click="Reverse_Click" HorizontalAlignment="Left" Width="120"/>
+        <Button Name="Count" Content="Count" Margin="90,184,0,0" VerticalAlignment="Top" Click="Count_Click" HorizontalAlignment="Left" Width="120" Background="#FF81E847"/>
+        <TextBox Name="inputTextBox" HorizontalAlignment="Left" Height="20" Margin="10,234,0,0" TextWrapping="Wrap" Text="Input" VerticalAlignment="Top" Width="75"/>
+        <Button Name="shuffleButton" Content="Shuffle" Margin="10,160,0,0" VerticalAlignment="Top" Height="19" Click="shuffleButton_Click" HorizontalAlignment="Left" Width="200" Background="#FFF58C0D"/>
+        <Label Name="outputLabel" Content="Output" HorizontalAlignment="Left" Margin="10,179,0,0" VerticalAlignment="Top" Height="37" Width="94" FontSize="15" FontWeight="Bold"/>
+        <TextBox Margin="10,284,10,10" TextWrapping="Wrap" Text="// divide into two lists&#xD;&#xA;            for (int j = 0; j &lt; _clubs.Count; j++)&#xD;&#xA;            {&#xD;&#xA;                if (_clubs.Count % 2 == 0)&#xD;&#xA;                {&#xD;&#xA;                    _reeks1Clubs.Add(_clubs[j]);&#xD;&#xA;                }&#xD;&#xA;                else&#xD;&#xA;                {&#xD;&#xA;                    _reeks2Clubs.Add(_clubs[j]);&#xD;&#xA;                }&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;            }"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,42 @@
+{
+  "persons": [
+    {
+      "id": 1,
+      "name": "sofie"
+    },
+    {
+      "id": 2,
+      "name": "tim"
+    },
+    {
+      "id": 3,
+      "name": "gertje"
+    }
+  ], 
+  "pets": [
+    {
+      "id": 1,
+      "name": "jaakske"
+    },
+    {
+      "id": 2,
+      "name": "duvel"
+    },
+    {
+      "id": 3,
+      "name": "jimmy"
+    }
+  ],
+  "persons_pets": [
+    {
+      "id":1,
+      "personid": 1,
+      "petid": 2 
+    },
+    {
+      "id":2,
+      "personid": 1,
+      "petid":3 
+    }
+  ]
+}

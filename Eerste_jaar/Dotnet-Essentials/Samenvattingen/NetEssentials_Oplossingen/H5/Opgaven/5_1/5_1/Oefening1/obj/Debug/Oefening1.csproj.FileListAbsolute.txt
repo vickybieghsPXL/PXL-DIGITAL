@@ -1,0 +1,15 @@
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H5\Opgaven\5_1\5_1\Oefening1\bin\Debug\Oefening1.exe.config
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H5\Opgaven\5_1\5_1\Oefening1\bin\Debug\Oefening1.exe
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H5\Opgaven\5_1\5_1\Oefening1\bin\Debug\Oefening1.pdb
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H5\Opgaven\5_1\5_1\Oefening1\obj\Debug\Oefening1.csprojAssemblyReference.cache
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H5\Opgaven\5_1\5_1\Oefening1\obj\Debug\MainWindow.g.cs
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H5\Opgaven\5_1\5_1\Oefening1\obj\Debug\App.g.cs
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H5\Opgaven\5_1\5_1\Oefening1\obj\Debug\Oefening1_MarkupCompile.cache
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H5\Opgaven\5_1\5_1\Oefening1\obj\Debug\Oefening1_MarkupCompile.lref
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H5\Opgaven\5_1\5_1\Oefening1\obj\Debug\MainWindow.baml
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H5\Opgaven\5_1\5_1\Oefening1\obj\Debug\Oefening1.g.resources
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H5\Opgaven\5_1\5_1\Oefening1\obj\Debug\Oefening1.Properties.Resources.resources
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H5\Opgaven\5_1\5_1\Oefening1\obj\Debug\Oefening1.csproj.GenerateResource.cache
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H5\Opgaven\5_1\5_1\Oefening1\obj\Debug\Oefening1.csproj.CoreCompileInputs.cache
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H5\Opgaven\5_1\5_1\Oefening1\obj\Debug\Oefening1.exe
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H5\Opgaven\5_1\5_1\Oefening1\obj\Debug\Oefening1.pdb

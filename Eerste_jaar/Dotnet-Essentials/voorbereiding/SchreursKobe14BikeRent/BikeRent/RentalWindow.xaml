@@ -1,0 +1,43 @@
+﻿<Window x:Class="BikeRent.RentalWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BikeRent"
+        mc:Ignorable="d"
+        Title="Verhuur" Height="450" Width="476">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/BackgroundLight.png" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <!-- TextBlock labels -->
+        <TextBlock Style="{StaticResource TitleStyle}" Text="Fiets Id - Brand"
+                   Margin="38,39,0,0"
+                   Name="titleTextBlock"/>
+        <TextBlock Style="{StaticResource DarkLabelStyle}" Margin="38,108,0,0"
+                   Text="Startdatum" />
+        <TextBlock Style="{StaticResource DarkLabelStyle}" Margin="38,161,0,0"
+                   Text="Aantal dagen" />
+        <TextBlock Style="{StaticResource DarkLabelStyle}" Margin="38,219,0,0"
+                   Text="Naam klant" />
+        <TextBlock Style="{StaticResource DarkLabelStyle}" Margin="38,278,0,0"
+                   Text="Totaal (EUR)" />
+        <TextBox Style="{StaticResource EntryStyle}" Margin="201,108,0,0"
+                 Name="startDateTextBox"/>
+        <Slider HorizontalAlignment="Left" Margin="201,167,0,0" VerticalAlignment="Top"
+                Width="200" Minimum="1" Maximum="14" Name="daysSlider"
+                TickPlacement="BottomRight" IsSnapToTickEnabled="True" ValueChanged="daysSlider_ValueChanged" />
+        <TextBlock Style="{StaticResource DarkDataStyle}" Margin="419,161,0,0" Text="XX"
+                 Name="daysTextBlock"/>
+        <TextBox Style="{StaticResource EntryStyle}" Margin="201,219,0,0"
+                 Name="customerTextBox"/>
+        <TextBlock Style="{StaticResource DarkDataStyle}" Margin="201,278,0,0" Text="XX.XX "
+                 Name="totalTextBlock"/>
+        <TextBlock Style="{StaticResource DarkLabelStyle}" Margin="38,326,0,0"
+                   Text="Aantal km" Name="kmTextBlock"/>
+        <TextBox Style="{StaticResource EntryStyle}" Margin="201,323,0,0"
+                 Name="kmTextBox"/>
+        <Button Style="{StaticResource ButtonStyle}" Content="Button" Margin="301,369,0,0"
+                Name="submitButton" Click="submitButton_Click"/>
+    </Grid>
+</Window>

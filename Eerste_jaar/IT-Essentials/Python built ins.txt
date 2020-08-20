@@ -1,0 +1,3 @@
+import random, variabelenaam = random.randomint(1, 99999) bereik random
+
+round = round(variabele of getal, hoeveelheid decimalen na komma) dus 2.15599 word 2.15

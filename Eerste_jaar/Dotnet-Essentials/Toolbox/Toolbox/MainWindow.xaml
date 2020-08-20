@@ -1,0 +1,38 @@
+﻿<Window x:Class="Toolbox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Toolbox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="404" Width="407">
+    <Grid>
+        <Button Name="sliderButton" Content="Sliders" HorizontalAlignment="Left" Margin="10,13,0,0" VerticalAlignment="Top" Width="75" Click="sliderButton_Click" Background="#FF71FF48"/>
+        <Button Name="listBoxButton" Content="List/ListBox" HorizontalAlignment="Left" Margin="10,236,0,0" VerticalAlignment="Top" Width="75" Click="listBoxButton_Click"/>
+        <Button Name="shapesButton" Content="Shapes" HorizontalAlignment="Left" Margin="10,328,0,0" VerticalAlignment="Top" Width="75" Click="shapesButton_Click" Background="#FF80A8EE"/>
+        <Button Name="dictionaryButton"  Content="Dictionary" HorizontalAlignment="Left" Margin="10,186,0,0" VerticalAlignment="Top" Width="75" Click="dictionaryButton_Click"/>
+        <Button Name="inheritanceButton" Content="Inheritance" HorizontalAlignment="Left" Margin="299,8,0,0" VerticalAlignment="Top" Width="75" Click="inheritanceButton_Click" Background="#FFB78EFF"/>
+        <Label Content="&lt; ook shuffle" HorizontalAlignment="Left" Margin="90,35,0,0" VerticalAlignment="Top" Height="30" Width="127"/>
+        <Label Content="&lt; c# en xaml" HorizontalAlignment="Left" Margin="90,60,0,0" VerticalAlignment="Top"/>
+        <Button Name="menuButton" Content="Menu" HorizontalAlignment="Left" Margin="10,88,0,0" VerticalAlignment="Top" Width="75" Click="menuButton_Click" Background="#FF71FF48"/>
+        <Label Content="&lt; ook open/save/saveas" HorizontalAlignment="Left" Margin="90,85,0,0" VerticalAlignment="Top" Width="147"/>
+        <Button Name="enumButton" Content="Enum" HorizontalAlignment="Left" Margin="10,161,0,0" VerticalAlignment="Top" Width="75" Click="enumButton_Click"/>
+        <Button Name="interfaceButton" Content="Interface" HorizontalAlignment="Left" Margin="299,33,0,0" VerticalAlignment="Top" Width="75" Background="#FFB78EFF" Click="interfaceButton_Click"/>
+        <Button Name="clockButton" Content="Clock" HorizontalAlignment="Left" Margin="299,241,0,0" VerticalAlignment="Top" Width="75" Click="clockButton_Click" Background="#FFFFD100"/>
+        <Button Name="stringsButton" Content="Strings" HorizontalAlignment="Left" Margin="10,303,0,0" VerticalAlignment="Top" Width="75" Click="stringsButton_Click" Background="#FF80A8EE"/>
+        <Button Name="arraysButton" Content="Arrays" HorizontalAlignment="Left" Margin="10,211,0,0" VerticalAlignment="Top" Width="75" Click="arraysButton_Click"/>
+        <Label Content="ook polymorphisme &gt;" HorizontalAlignment="Left" Margin="166,5,0,0" VerticalAlignment="Top" Width="128"/>
+        <Button Name="fileReaderButton" Content="FileReader" HorizontalAlignment="Left" Margin="299,131,0,0" VerticalAlignment="Top" Width="75" Click="fileReaderButton_Click" Background="#FFFF81A3"/>
+        <Button Name="fileWriterButton" Content="FileWriter" HorizontalAlignment="Left" Margin="299,156,0,0" VerticalAlignment="Top" Width="75" Background="#FFFF81A3" Click="fileWriterButton_Click"/>
+        <Button Name="directoryButton" Content="Directory" HorizontalAlignment="Left" Margin="299,181,0,0" VerticalAlignment="Top" Width="75" Click="directoryButton_Click" Background="#FFFF81A3"/>
+        <Label Content="Paden mappen/files opvragen &gt;" HorizontalAlignment="Left" Margin="115,175,0,0" VerticalAlignment="Top" Width="179"/>
+        <Button Name="switchCaseButton" Content="SwitchCase" HorizontalAlignment="Left" Margin="10,261,0,0" VerticalAlignment="Top" Width="75" Click="switchCaseButton_Click"/>
+        <Button Name="minimiseButton" Content="Minimise" HorizontalAlignment="Left" Margin="10,121,0,0" VerticalAlignment="Top" Width="75" Click="minimiseButton_Click" Background="#FFDEFF6C"/>
+        <Button Name="progressBarButton"  Content="Progress Bar" HorizontalAlignment="Left" Margin="299,291,0,0" VerticalAlignment="Top" Width="75" Click="progressBarButton_Click" Background="#FFFFD100"/>
+        <Button Name="comboBoxButton" Content="ComboBox" HorizontalAlignment="Left" Margin="10,38,0,0" VerticalAlignment="Top" Width="75" Click="comboBoxButton_Click" Background="#FF71FF48"/>
+        <Button Name="exceptionsButton" Content="Exceptions" HorizontalAlignment="Left" Margin="299,58,0,0" VerticalAlignment="Top" Width="75" Click="exceptionsButton_Click" Background="#FFB78EFF"/>
+        <Button Name="radioButton" Content="RadioButton" HorizontalAlignment="Left" Margin="10,63,0,0" VerticalAlignment="Top" Width="75" Click="radioButton_Click" Background="#FF71FF48"/>
+        <Button Name="timeSpanButton" Content="TimeSpan" HorizontalAlignment="Left" Margin="299,266,0,0" VerticalAlignment="Top" Width="75" Click="timeSpanButton_Click" Background="#FFFFD100"/>
+        <Button Name="listBoxItemButton" Content="ListBoxItem" HorizontalAlignment="Left" Margin="90,236,0,0" VerticalAlignment="Top" Width="75" Click="listBoxItemButton_Click"/>
+    </Grid>
+</Window>

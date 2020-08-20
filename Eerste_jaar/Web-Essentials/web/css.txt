@@ -1,0 +1,189 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0 auto;
+}
+/*     <meta name="viewport" content="width=device-width, initial-scale=1.0"> */
+/* text style */
+.bold{
+    font-weight: bold;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.centered{
+    text-align: center;
+}
+
+.middle{
+    padding: 1em 0;
+	margin: 0 auto;
+	text-align: center;
+
+}
+
+/* GRID */
+.grid_block{
+    float: left;
+    width: 24%;
+    /* padding-right: 2%;  */    /*2% lege ruimte tussen de grids */
+    overflow: hidden;       /* tekst kan niet over limits */
+}
+
+/* ENKEL PADDING OP DE MIDDELSTE GRIDS (eerste 2 middelste) MET 4 GRIDS */
+.grid_block:nth-child(n + 2):nth-child(-n + 3){
+    margin: 0 1% 0;
+}
+
+/* ENKEL PADDING OP DE MIDDELSTE GRIDS (eerste 2 middelste op rij 2) */
+.grid_block:nth-child(n + 6):nth-child(-n + 7){
+    margin: 0 1% 0;
+}
+.grid_image_full{
+    width: 100%;
+}
+.grid_image_full:hover{     /* transparantie */
+    opacity: 0.5;
+}
+
+.allign_left{
+    float: left;
+}
+
+.allign_right{
+    float: right;
+}
+
+.comment{
+    color: gray;
+}
+
+
+
+/* NAV */
+nav{
+    height: 50px;
+    background-color: blanchedalmond;
+    width: 100%;
+    top: 0;
+}
+
+nav .nav_image{
+    height: 100%;
+    display: inline-block;
+    margin-right: 2.5%;
+}
+
+.links_nav{
+    display: inline-block;
+    margin: 0 0 11.5px 0;       /* 11.5 bottom want (50 [hoogte nav] - 27 [hoogte van de ul] / 2 = 11.5 */
+    padding: 0;
+    list-style: none;
+    overflow: hidden;
+}
+
+.links_nav li{
+    display: inline-block;
+    margin-right: 25px;
+}
+
+.nav_link{
+    text-decoration: none;
+    color: darkgreen;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.nav_link:hover{
+    opacity: 0.5;
+    color: white;
+}
+
+/* tabel */
+.enkele_strepen{
+    border: 1px black solid;
+}
+
+.strepen_binnen td{
+    border: 1px solid black;
+}
+
+.border_collapse{
+    border-collapse: collapse;
+}
+
+/* VOORBEELD OM AFWISSELENDE KLEUREN TE HEBBEN IN EEN TABEL */
+table tbody tr:nth-child(odd) > td:nth-child(odd){
+    background-color: orange;
+}
+
+table tbody tr:nth-child(odd) > td:nth-child(even){
+    background-color: yellow;
+}
+
+table tbody tr:nth-child(even) > td:nth-child(odd){
+    background-color: yellow;
+}
+
+table tbody tr:nth-child(even) > td:nth-child(even){
+    background-color: orange;
+}
+
+/* background image met text overlay */
+.background{                /* dit toepassen op de div/header waar de img in zit */
+    position: relative;
+    width: 50%;
+}
+.background img{
+    width: 100%;
+}
+.overlay_text{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+/* VOORBEELDEN MEDIA QUERIES */
+@media screen and (min-width: 480px){ /* groter dan 480px */
+
+}
+
+@media screen and (max-width: 480px) and (min-width: 200px){ /* tussen 200 en 480 px */
+
+}
+
+@media screen and (max-width: 200px){ /* kleinder dan 200px */
+
+}
+
+/* z-index */
+.box{
+    width: 250px;
+    height: 250px;
+    background-color: gray;
+    border: 1px solid black;
+    opacity: 0.5;
+    border-radius: 5%;
+}
+
+.box:nth-child(1){
+    z-index: 3;
+    position: relative;
+}
+
+.box:nth-child(2){
+    z-index: 2;
+    position: relative;
+    left: 50px;
+    top: -200px;
+}
+
+.box:nth-child(3){
+    z-index: 1;
+    position: relative;
+    left: 100px;
+    top: -400px;
+}

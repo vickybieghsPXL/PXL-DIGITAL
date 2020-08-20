@@ -1,0 +1,163 @@
+/* Onderstaande CSS mag NIET aangepast worden */
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("assets/background.jpg");
+    background-size: 100% 100%;
+}
+header {
+    text-align: center;
+    padding: 10px 0;
+    background-color: rgba(238, 238, 238, 0.48);
+}
+
+.contentwrapper {
+    width: 1100px;
+    margin: 0 auto;
+}
+
+footer {
+    background-color: rgba(105, 108, 119, 0.4);
+    padding: 20px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+.clear {
+    clear: both;
+}
+#pagetitle {
+    font-size: 40px;
+    font-family: fantasy;
+}
+/* Boven deze lijn mogen er geen aanpassingen worden gemaakt! */
+
+
+/* START OEFENING: */
+/* Vanaf dit deze lijn mogen er dingen aangepast worden */
+
+/* Navigation */
+nav {
+    float: left;
+    width: 200px;
+    background-color: burlywood;
+    text-align: center;
+    margin-top: 5px;
+}
+nav ul{
+    list-style: none;
+    font-weight: bold;
+    padding: 0;
+}
+
+nav ul li:hover{
+    background-color: #a9a9a9;
+}
+/* Main content */
+main {
+    width: 550px;
+    float: left;
+    text-align: center;
+}
+
+article {
+    width: 173px;
+    background-color: #dddddd;
+    float: left;
+    margin: 5px 2.5px 5px 2.5px;
+}
+article a img{
+    max-width: 150px;
+}
+
+.extrainfo {
+    display: none;
+}
+
+/* Asides */
+aside {
+    width: 350px;
+    float: right;
+    background-color: #666d8b;
+    color: white;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.floatingelement{
+    border-radius: 5px;
+}
+
+aside img {
+    width: 300px;
+}
+
+aside:nth-child(3n + 1) h3 span{
+    color: #87d388;
+}
+
+aside:nth-child(3n + 1) p span{
+    color: #26a9ff;
+    font-size: x-large;
+}
+
+@media screen and (max-width: 1200px){
+    .contentwrapper{
+        width: 90%;
+    }
+    nav{
+        width: 100%;
+    }
+
+    nav ul li{
+        float: left;
+        width: 25%;
+        padding: 12px;
+    }
+    main{
+        width: 60%;
+        margin-left: 1%;
+    }
+
+    aside{
+        width: 38%;
+        margin-right: 1%;
+    }
+    aside img{
+        width: 100%;
+    }
+    article{
+        width: 31%;
+        margin: 1%;
+    }
+    article img{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 1000px){
+    article{
+        width: 48%;
+    }
+}
+
+@media screen and (max-width: 650px){
+    nav ul li{
+        width: 100%;
+    }
+    main, article{
+        width: 100%;
+    }
+    .extrainfo{
+        display: inline-block;
+    }
+    main img{
+        text-align: center;
+        max-width: 250px;
+    }
+}
+
+

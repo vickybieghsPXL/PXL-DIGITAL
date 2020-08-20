@@ -1,0 +1,35 @@
+table{
+    width: 800px;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+thead{
+    background-color: #8b161c;
+    font-size: 60px;
+}
+.prijs{
+    font-weight: bold;
+}
+.categorie{
+    background-color: #dd5146;
+    font-weight: bold;
+    text-align: center;
+    margin: 0;
+}
+
+table tbody tr:nth-child(even){
+    background-color: #acacac;
+}
+table tbody tr:nth-child(odd){
+    background-color: #dddddd;
+}
+
+td{
+    padding: 5px 0 5px 15px;
+
+}
+
+tbody tr:hover{
+    background-color: white;
+    border: 1px solid #0000ff;
+}

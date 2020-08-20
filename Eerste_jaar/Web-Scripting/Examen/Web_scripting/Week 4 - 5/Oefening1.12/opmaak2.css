@@ -1,0 +1,33 @@
+body {
+    color: #EEEEAA;
+}
+
+input[type="button"] {
+    color: #9B9302;
+    background-color: #F5F265;
+}
+
+article {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+
+    color: #A3A163;
+}
+
+h1 {
+    color: #AAAA66;
+    text-align: left;
+}
+
+a {
+    color: #CDCF9B;
+}
+
+ul {
+    padding: 0;
+}
+
+li {
+    list-style-type: none;
+}

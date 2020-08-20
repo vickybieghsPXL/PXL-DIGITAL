@@ -1,0 +1,31 @@
+arp -a:			Alle macadressen laten zien die gekoppeld zijn aan IP-adressen
+netstat -a:		TCP protocollen laten zien met adressen
+in taakbeheer PID:	TCP poorten laten zien
+(TCP-protocol koppelt zich aan andere protocollen zoals bv. http,...)
+* ethernet protocol bepaalt de timing, snelheid van het internet
+	-> 802.3 -> bekabeld ethernet
+	-> 802.11, ... -> welk soort medium
+* TCP protocol koppelt zich aan application protocol
+* Streaming audio(video) protocol = RSVP (bv. netflix, youtube, ...)
+* TCP = UDP
+	-> TCP wacht op antwoord, en verstuurt opnieuw (youtube)
+	-> UDP niet en stuurt niet opnieuw (netflix)
+* HTTPS is met het SSL protocol wat zorgt voor encryptie van data
+
+!!!!!!!!!!!!!!!!!!!!!!!! EXAMENVRAAG!!! 200% ZEKER !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+* TCP/IP Model is afgeleid van het OSI-model:
+	-> physical -> Data link -> Network  -> Transport -> Session -> presentation -> Application
+	=> Network Access	 -> Internet -> Transport -> Application
+
+-> Application: Alle protocollen die te maken hebben met applicaties
+-> presentation: Encrypteert alle data die van de application layer komt
+-> Session: Zet verbinding op van bron tot bestemming
+-> Transport: Zet verbinding tussen mij en volgende netwerkapparaat op 
+		Data wordt opgedeeld in maximale stukken en terug plakken
+		Doorsturen naar juiste poort
+-> Network: Zorgt voor juiste adressering
+-> Data link: Source en destination, alles over bepaald medium heen laten gaan
+-> Physical: Alles wat te maken heeft met fysiek omzetten van IOIO of andersom
+All People Seem To Need Data Processing
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+

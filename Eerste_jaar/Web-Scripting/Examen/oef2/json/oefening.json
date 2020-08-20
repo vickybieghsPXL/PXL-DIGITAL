@@ -1,0 +1,54 @@
+{
+  "persons": [
+    {
+      "id": 1,
+      "name": "sofie",
+      "friends": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 2,
+      "name": "tim",
+      "friends": [
+        1
+      ]
+    },
+    {
+      "id": 3,
+      "name": "geert",
+      "friends": []
+    },
+    {
+      "name": "nieuw",
+      "friends": [],
+      "id": 4
+    },
+    {
+      "name": "n",
+      "friends": [],
+      "id": 5
+    },
+    {
+      "name": "n2",
+      "friends": [],
+      "id": 6
+    },
+    {
+      "name": "ssss",
+      "friends": [],
+      "id": 7
+    },
+    {
+      "name": "ssss",
+      "friends": [],
+      "id": 8
+    },
+    {
+      "name": "s",
+      "friends": [],
+      "id": 9
+    }
+  ]
+}

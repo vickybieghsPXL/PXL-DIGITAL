@@ -1,0 +1,20 @@
+﻿<Window x:Class="Toolbox.RadioButtonWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Toolbox"
+        mc:Ignorable="d"
+        Title="RadioButtonWindow" Height="260.55" Width="792.661">
+    <Grid>
+        <GroupBox Name="toggleGroupBox" Header="GroupBox" Margin="10,10,10,0" Height="70" VerticalAlignment="Top">
+            <Grid>
+                <RadioButton Name="one" Content="oneRadioButton" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+                <RadioButton Name="two" Content="twoRadioButton" HorizontalAlignment="Left" Margin="10,30,0,0" VerticalAlignment="Top"/>
+            </Grid>
+        </GroupBox>
+        <TextBox Margin="10,85,10,10" TextWrapping="Wrap" Text="&lt;GroupBox Name=&quot;toggleGroupBox&quot; Header=&quot;GroupBox&quot; Margin=&quot;10,10,10,0&quot; Height=&quot;70&quot; VerticalAlignment=&quot;Top&quot;&gt;&#xD;&#xA;            &lt;Grid&gt;&#xD;&#xA;                &lt;RadioButton Name=&quot;one&quot; Content=&quot;RadioButton&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;10,10,0,0&quot; VerticalAlignment=&quot;Top&quot;/&gt;&#xD;&#xA;                &lt;RadioButton Name=&quot;two&quot; Content=&quot;RadioButton3&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;10,30,0,0&quot; VerticalAlignment=&quot;Top&quot;/&gt;&#xD;&#xA;            &lt;/Grid&gt;&#xD;&#xA;        &lt;/GroupBox&gt;&#xD;&#xA;&#xD;&#xA;// C# code : &#x9;oneRadioButton.IsChecked == true"/>
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,30 @@
+﻿<Window x:Class="Toolbox.MenuWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Toolbox"
+        mc:Ignorable="d"
+        Title="MenuWindow" Height="300" Width="300">
+
+        <DockPanel>
+            <Menu DockPanel.Dock="Top">
+                <Menu DockPanel.Dock="Top">
+                    <MenuItem Header="_File">
+                        <MenuItem Name="openMenuItem" Header="_Open" Click="openMenuItem_Click"/>
+                        <MenuItem Name="saveMenuItem" Header="_Save" Click="saveMenuItem_Click"/>
+                        <MenuItem Name="saveAsMenuItem" Header="Save _As" Click="saveAsMenuItem_Click"/>
+                        <Separator></Separator>
+                        <MenuItem Name="exitMenuItem" Header="E_xit" Click="exitMenuItem_Click"/>
+                    </MenuItem>
+                </Menu>
+            </Menu>
+
+            <Grid>
+
+                <TextBox Name="mainTextBox" Margin="10,20,10,10" TextWrapping="Wrap" Text="Dit word gevuld door het geopende bestand."/>
+
+            </Grid>
+    </DockPanel>
+
+</Window>

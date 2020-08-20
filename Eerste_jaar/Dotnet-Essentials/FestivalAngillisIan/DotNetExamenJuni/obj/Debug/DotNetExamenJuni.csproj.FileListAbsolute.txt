@@ -1,0 +1,57 @@
+C:\Users\Eigenaar\Desktop\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\bin\Debug\DotNetExamenJuni.exe.config
+C:\Users\Eigenaar\Desktop\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\bin\Debug\DotNetExamenJuni.exe
+C:\Users\Eigenaar\Desktop\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\bin\Debug\DotNetExamenJuni.pdb
+C:\Users\Eigenaar\Desktop\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\MainWindow.g.cs
+C:\Users\Eigenaar\Desktop\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\NewActWindow.g.cs
+C:\Users\Eigenaar\Desktop\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\StageLineUpWindow.g.cs
+C:\Users\Eigenaar\Desktop\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\App.g.cs
+C:\Users\Eigenaar\Desktop\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\DotNetExamenJuni_MarkupCompile.cache
+C:\Users\Eigenaar\Desktop\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\DotNetExamenJuni_MarkupCompile.lref
+C:\Users\Eigenaar\Desktop\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\MainWindow.baml
+C:\Users\Eigenaar\Desktop\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\NewActWindow.baml
+C:\Users\Eigenaar\Desktop\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\StageLineUpWindow.baml
+C:\Users\Eigenaar\Desktop\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\DotNetExamenJuni.g.resources
+C:\Users\Eigenaar\Desktop\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\DotNetExamenJuni.Properties.Resources.resources
+C:\Users\Eigenaar\Desktop\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\DotNetExamenJuni.csproj.GenerateResource.Cache
+C:\Users\Eigenaar\Desktop\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\DotNetExamenJuni.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\DotNetExamenJuni.exe
+C:\Users\Eigenaar\Desktop\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\DotNetExamenJuni.pdb
+C:\Users\Eigenaar\Desktop\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\DotNetExamenJuni.csprojResolveAssemblyReference.cache
+C:\Users\Ian\OneDrive - PXL\1TIN\.NET Essentials\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\bin\Debug\DotNetExamenJuni.exe.config
+C:\Users\Ian\OneDrive - PXL\1TIN\.NET Essentials\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\bin\Debug\DotNetExamenJuni.exe
+C:\Users\Ian\OneDrive - PXL\1TIN\.NET Essentials\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\bin\Debug\DotNetExamenJuni.pdb
+C:\Users\Ian\OneDrive - PXL\1TIN\.NET Essentials\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\DotNetExamenJuni.csprojAssemblyReference.cache
+C:\Users\Ian\OneDrive - PXL\1TIN\.NET Essentials\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\MainWindow.g.cs
+C:\Users\Ian\OneDrive - PXL\1TIN\.NET Essentials\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\NewActWindow.g.cs
+C:\Users\Ian\OneDrive - PXL\1TIN\.NET Essentials\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\StageLineUpWindow.g.cs
+C:\Users\Ian\OneDrive - PXL\1TIN\.NET Essentials\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\App.g.cs
+C:\Users\Ian\OneDrive - PXL\1TIN\.NET Essentials\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\DotNetExamenJuni_MarkupCompile.cache
+C:\Users\Ian\OneDrive - PXL\1TIN\.NET Essentials\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\DotNetExamenJuni_MarkupCompile.lref
+C:\Users\Ian\OneDrive - PXL\1TIN\.NET Essentials\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\MainWindow.baml
+C:\Users\Ian\OneDrive - PXL\1TIN\.NET Essentials\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\NewActWindow.baml
+C:\Users\Ian\OneDrive - PXL\1TIN\.NET Essentials\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\StageLineUpWindow.baml
+C:\Users\Ian\OneDrive - PXL\1TIN\.NET Essentials\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\DotNetExamenJuni.g.resources
+C:\Users\Ian\OneDrive - PXL\1TIN\.NET Essentials\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\DotNetExamenJuni.Properties.Resources.resources
+C:\Users\Ian\OneDrive - PXL\1TIN\.NET Essentials\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\DotNetExamenJuni.csproj.GenerateResource.cache
+C:\Users\Ian\OneDrive - PXL\1TIN\.NET Essentials\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\DotNetExamenJuni.csproj.CoreCompileInputs.cache
+C:\Users\Ian\OneDrive - PXL\1TIN\.NET Essentials\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\DotNetExamenJuni.exe
+C:\Users\Ian\OneDrive - PXL\1TIN\.NET Essentials\NETExamen\DotNetExamenJuni\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\DotNetExamenJuni.pdb
+C:\Users\Thot\Desktop\TIN\DOT-Net\FestivalAngillisIan\DotNetExamenJuni\bin\Debug\DotNetExamenJuni.exe.config
+C:\Users\Thot\Desktop\TIN\DOT-Net\FestivalAngillisIan\DotNetExamenJuni\bin\Debug\DotNetExamenJuni.exe
+C:\Users\Thot\Desktop\TIN\DOT-Net\FestivalAngillisIan\DotNetExamenJuni\bin\Debug\DotNetExamenJuni.pdb
+C:\Users\Thot\Desktop\TIN\DOT-Net\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\DotNetExamenJuni.csprojAssemblyReference.cache
+C:\Users\Thot\Desktop\TIN\DOT-Net\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\MainWindow.g.cs
+C:\Users\Thot\Desktop\TIN\DOT-Net\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\NewActWindow.g.cs
+C:\Users\Thot\Desktop\TIN\DOT-Net\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\StageLineUpWindow.g.cs
+C:\Users\Thot\Desktop\TIN\DOT-Net\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\App.g.cs
+C:\Users\Thot\Desktop\TIN\DOT-Net\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\DotNetExamenJuni_MarkupCompile.cache
+C:\Users\Thot\Desktop\TIN\DOT-Net\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\DotNetExamenJuni_MarkupCompile.lref
+C:\Users\Thot\Desktop\TIN\DOT-Net\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\MainWindow.baml
+C:\Users\Thot\Desktop\TIN\DOT-Net\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\NewActWindow.baml
+C:\Users\Thot\Desktop\TIN\DOT-Net\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\StageLineUpWindow.baml
+C:\Users\Thot\Desktop\TIN\DOT-Net\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\DotNetExamenJuni.g.resources
+C:\Users\Thot\Desktop\TIN\DOT-Net\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\DotNetExamenJuni.Properties.Resources.resources
+C:\Users\Thot\Desktop\TIN\DOT-Net\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\DotNetExamenJuni.csproj.GenerateResource.cache
+C:\Users\Thot\Desktop\TIN\DOT-Net\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\DotNetExamenJuni.csproj.CoreCompileInputs.cache
+C:\Users\Thot\Desktop\TIN\DOT-Net\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\DotNetExamenJuni.exe
+C:\Users\Thot\Desktop\TIN\DOT-Net\FestivalAngillisIan\DotNetExamenJuni\obj\Debug\DotNetExamenJuni.pdb

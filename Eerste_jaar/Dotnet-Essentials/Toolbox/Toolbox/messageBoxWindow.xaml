@@ -1,0 +1,14 @@
+﻿<Window x:Class="Toolbox.MessageBoxDialogWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Toolbox"
+        mc:Ignorable="d"
+        Title="MessageBoxDialogWindow" Height="300" Width="300">
+    <Grid>
+        <Button Content="MessageBox" HorizontalAlignment="Left" Margin="10,10,0,0"
+                VerticalAlignment="Top" Width="272"
+                Name="showButton" Click="showButton_Click"/>
+    </Grid>
+</Window>

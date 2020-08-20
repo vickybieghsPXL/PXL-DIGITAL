@@ -1,0 +1,208 @@
+body{
+    background-color: #2A2A37;
+    margin: 0;
+}
+
+*{
+    box-sizing: border-box;
+}
+.clear{
+    clear: both;
+}
+.head{
+    width: 85%;
+    margin-left: 7.5%;
+}
+header{
+    background: #F46036;
+    width: 100%;
+    position: sticky;
+    top: 0;
+    z-index: 50;
+}
+nav{
+    height: 50px;
+    top: 0;
+    float: left;
+}
+
+.links_nav{
+    float: left;
+    padding: 0;
+    list-style: none;
+    overflow: hidden;
+}
+
+.links_nav li{
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.nav_link{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.nav_link:hover{
+    text-decoration: underline;
+}
+
+.zoeken{
+    float: right;
+    margin-top: 7.5px;
+}
+
+.zoeken .text{
+    background-color: #955E42;
+    border: 0;
+    height: 35px;
+    padding: 10px;
+    float: right;
+}
+.zoeken .text:hover{
+    background-color: white;
+}
+.zoeken .button{
+    border: 1px solid #955E42;
+    height: 35px;
+    background-color: white;
+    color: #F46036;
+    float: right;
+    padding: 10px;
+    margin-left: 5px;
+}
+
+main{
+    background-color: black;
+    opacity: 0.8;
+    width: 85%;
+    margin: 0 auto;
+    padding: 20px;
+    color: white;
+}
+
+/* GRID */
+.grid_block{
+    float: left;
+    width: 32%;
+    overflow: hidden;       /* tekst kan niet over limits */
+    margin-right: 1%;
+    background-color: #353545;
+    margin-bottom: 10px;
+}
+
+.grid_image_full{
+    width: 100%;
+}
+.grid_nieuw{
+    position: relative;
+}
+.grid_nieuw_text{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #F46036;
+    padding: 10px;
+    margin: 0;
+}
+
+.comment{
+    color: gray;
+}
+
+.nieuws{
+    width: 65%;
+    float: left;
+    padding: 10px;
+    background: #353545;
+    margin-right: 10px;
+}
+
+aside{
+    width: 32%;
+    float: left;
+    padding: 10px;
+    background: #353545;
+}
+
+aside .button{
+    width: 70%;
+    background-color: #F46036;
+    color: white;
+    padding: 15px;
+    margin: 0 auto;
+    text-align: center;
+}
+footer{
+    width: 100%;
+    padding: 10px;
+    background-color: #F46036;
+    clear: both;
+    text-align: center;
+}
+
+footer ul{
+    padding: 0;
+    list-style: none;
+    overflow: hidden;
+    clear: both;
+    margin: 0;
+}
+
+footer li{
+    display: inline-block;
+    margin-right: 20px;
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+form{
+    width: 600px;
+}
+.text{
+    width: 200px;
+}
+label{
+    width: 200px;
+    color: white;
+}
+.checkbox{
+    float: left;
+}
+.knop{
+    margin-right: 10px;
+    width: 200px;
+
+}
+label, select, textarea, input{
+    float: left;
+}
+textarea{
+    height: 85px;
+    margin-left: 200px;
+}
+textarea, .email{
+    width: 400px;
+}
+label{
+    clear: left;
+}
+#vraag{
+    margin-top: -10px;
+    width: 600px;
+}
+
+form p{
+    float: left;
+    color: white;
+    margin: 0;
+}
+
+.clearl{
+    clear: left;
+}

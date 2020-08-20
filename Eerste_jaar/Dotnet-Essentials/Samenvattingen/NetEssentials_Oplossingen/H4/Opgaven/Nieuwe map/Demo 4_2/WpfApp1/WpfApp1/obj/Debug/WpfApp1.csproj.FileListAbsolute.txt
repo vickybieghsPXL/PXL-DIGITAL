@@ -1,0 +1,15 @@
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H4\Opgaven\Nieuwe map\Demo 4_2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H4\Opgaven\Nieuwe map\Demo 4_2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H4\Opgaven\Nieuwe map\Demo 4_2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H4\Opgaven\Nieuwe map\Demo 4_2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H4\Opgaven\Nieuwe map\Demo 4_2\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H4\Opgaven\Nieuwe map\Demo 4_2\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H4\Opgaven\Nieuwe map\Demo 4_2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H4\Opgaven\Nieuwe map\Demo 4_2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H4\Opgaven\Nieuwe map\Demo 4_2\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H4\Opgaven\Nieuwe map\Demo 4_2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H4\Opgaven\Nieuwe map\Demo 4_2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H4\Opgaven\Nieuwe map\Demo 4_2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H4\Opgaven\Nieuwe map\Demo 4_2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H4\Opgaven\Nieuwe map\Demo 4_2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H4\Opgaven\Nieuwe map\Demo 4_2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb

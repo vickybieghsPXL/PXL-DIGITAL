@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Contacteer ons</title>
+    <link rel="stylesheet" href="stijl.css">
+</head>
+
+<body>
+<form action="mailto:test@test.be" method="post" enctype="text/plain">
+    <label for="voornaam">Voornaam: </label><input name="voornaam" maxlength="10" type="text" class="textbox" id="voornaam" required>
+    <label for="achternaam">Achternaam: </label><input name="achternaam" type="text" class="textbox" id="achternaam" required>
+    <label for="email">Email: </label><input type="email" name="email" class="email" id="email" placeholder="mail@mail.com" required>
+    <label for="keuze">Ik heb een vraag over:</label><select name="vraag over" id="keuze" required>
+    <option value="Levering">Levering</option>
+    <option value="Facturering">Facturering</option>
+    <option value="Andere">Andere</option>
+</select>
+    <textarea name="vraag" class="area" id="bericht"></textarea>
+    <label id="vraag" for="bericht">Vraag:</label>
+    <input class="checkbox" checked required type="checkbox"><p class="checkboxtxt">Ik ga akkoord met de algemene voorwaarden</p>
+    <input class="knop clearl" type="submit"><input class="knop" type="reset">
+</form>
+</body>
+
+</html>

@@ -1,0 +1,22 @@
+STUDENT                        COUNTRIES
+STUDENT                        ZIP_CODES
+STUDENT                        ADDRESSES
+STUDENT                        MEMBERS
+STUDENT                        ADDRESS_TYPES
+STUDENT                        ADDRESS_MEMBERS
+STUDENT                        LOCATIONS
+STUDENT                        SPORTS
+STUDENT                        ACTIVITIES
+STUDENT                        ACTIVITY_DATES
+STUDENT                        SUBSCRIPTION_DATES
+STUDENT                        RESERVATIONS
+
+of voer SELECT owner, table_name FROM all_tables; in
+
+STUDENT                        LANDEN
+STUDENT                        GEMEENTEN
+STUDENT                        KLANTEN
+STUDENT                        VERBLIJFPLAATSEN
+STUDENT                        VAKANTIES
+STUDENT                        INSCHRIJVINGEN
+STUDENT                        INSCHRIJVINGEN_KINDGEGEVENS

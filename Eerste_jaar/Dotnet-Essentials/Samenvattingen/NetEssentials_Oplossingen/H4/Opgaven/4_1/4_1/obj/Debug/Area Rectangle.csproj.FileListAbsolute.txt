@@ -1,0 +1,27 @@
+C:\Users\11700247\Google Drive\Workspaces\.NET Essentials\H4\Opgaven\4_1\bin\Debug\Area Rectangle.exe.config
+C:\Users\11700247\Google Drive\Workspaces\.NET Essentials\H4\Opgaven\4_1\bin\Debug\Area Rectangle.exe
+C:\Users\11700247\Google Drive\Workspaces\.NET Essentials\H4\Opgaven\4_1\bin\Debug\Area Rectangle.pdb
+C:\Users\11700247\Google Drive\Workspaces\.NET Essentials\H4\Opgaven\4_1\obj\Debug\MainWindow.baml
+C:\Users\11700247\Google Drive\Workspaces\.NET Essentials\H4\Opgaven\4_1\obj\Debug\MainWindow.g.cs
+C:\Users\11700247\Google Drive\Workspaces\.NET Essentials\H4\Opgaven\4_1\obj\Debug\App.g.cs
+C:\Users\11700247\Google Drive\Workspaces\.NET Essentials\H4\Opgaven\4_1\obj\Debug\Area Rectangle_MarkupCompile.cache
+C:\Users\11700247\Google Drive\Workspaces\.NET Essentials\H4\Opgaven\4_1\obj\Debug\Area Rectangle.g.resources
+C:\Users\11700247\Google Drive\Workspaces\.NET Essentials\H4\Opgaven\4_1\obj\Debug\Area_Rectangle.Properties.Resources.resources
+C:\Users\11700247\Google Drive\Workspaces\.NET Essentials\H4\Opgaven\4_1\obj\Debug\Area Rectangle.csproj.GenerateResource.Cache
+C:\Users\11700247\Google Drive\Workspaces\.NET Essentials\H4\Opgaven\4_1\obj\Debug\Area Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\11700247\Google Drive\Workspaces\.NET Essentials\H4\Opgaven\4_1\obj\Debug\Area Rectangle.exe
+C:\Users\11700247\Google Drive\Workspaces\.NET Essentials\H4\Opgaven\4_1\obj\Debug\Area Rectangle.pdb
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H4\Opgaven\4_1\4_1\bin\Debug\Area Rectangle.exe.config
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H4\Opgaven\4_1\4_1\bin\Debug\Area Rectangle.exe
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H4\Opgaven\4_1\4_1\bin\Debug\Area Rectangle.pdb
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H4\Opgaven\4_1\4_1\obj\Debug\Area Rectangle.csprojAssemblyReference.cache
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H4\Opgaven\4_1\4_1\obj\Debug\MainWindow.baml
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H4\Opgaven\4_1\4_1\obj\Debug\MainWindow.g.cs
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H4\Opgaven\4_1\4_1\obj\Debug\App.g.cs
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H4\Opgaven\4_1\4_1\obj\Debug\Area Rectangle_MarkupCompile.cache
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H4\Opgaven\4_1\4_1\obj\Debug\Area Rectangle.g.resources
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H4\Opgaven\4_1\4_1\obj\Debug\Area_Rectangle.Properties.Resources.resources
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H4\Opgaven\4_1\4_1\obj\Debug\Area Rectangle.csproj.GenerateResource.cache
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H4\Opgaven\4_1\4_1\obj\Debug\Area Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H4\Opgaven\4_1\4_1\obj\Debug\Area Rectangle.exe
+C:\Users\11802665\Desktop\Samenvattingen\NetEssentials_Oplossingen\H4\Opgaven\4_1\4_1\obj\Debug\Area Rectangle.pdb

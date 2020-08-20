@@ -1,0 +1,14 @@
+﻿<Window x:Class="Toolbox.FileWriterWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Toolbox"
+        mc:Ignorable="d"
+        Title="FileWriterWindow" Height="125.114" Width="185.237">
+    <Grid>
+        <Button Name="writeButton" Content="WriteToFile" Margin="10,10,10,0" Click="writeButton_Click" Height="34" VerticalAlignment="Top"/>
+        <Button Name="clearAndWriteButton" Content="Clear and Write" HorizontalAlignment="Left" Margin="10,49,0,10" Width="157" Click="clearAndWriteButton_Click"/>
+
+    </Grid>
+</Window>

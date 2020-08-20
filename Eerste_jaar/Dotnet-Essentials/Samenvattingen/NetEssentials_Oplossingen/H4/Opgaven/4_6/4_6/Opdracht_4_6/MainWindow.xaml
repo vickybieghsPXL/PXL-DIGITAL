@@ -1,0 +1,15 @@
+﻿<Window x:Class="Opdracht_4_6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Opdracht_4_6"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label HorizontalAlignment="Left" VerticalAlignment="Top" Margin="37,108,0,0"/>
+        <Button Name="berekenButton" Content="Bereken" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="37,118,0,0" Click="BerekenButton_Click"/>
+        <Label Name="gradenCelsiusLabel" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="37,156,0,0" Width="71"/>
+
+    </Grid>
+</Window>

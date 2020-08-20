@@ -1,0 +1,33 @@
+git clone (url, groene knop git hub) .
+
+bestanden binen halen
+-----------------------
+git pull
+
+
+
+git status (of er veranderingen zijn geweest)
+
+git diff (veranderingen in code, q om er uit te gaan)
+
+git add . (alles of:)                (bv html/index.html or html/css/stijl.css) (maakt files klaar voor te commiten/pushen) of git add . (alles)
+git status
+
+git commit -m "bericht"
+
+			1X	git config --global user.email "mailadres"
+			1X	git config --global user.name "naam"
+				git commit -m "bericht"
+git push origin
+
+
+
+if file removed
+__________________
+git status
+git checkout html/file.html (om terug te zetten(server versie))
+git add html/file.html (om verandering te adden bij push(permanent verwijderen ook van server))
+
+
+
+git log (commits bekijken, kan ook op de site van github)

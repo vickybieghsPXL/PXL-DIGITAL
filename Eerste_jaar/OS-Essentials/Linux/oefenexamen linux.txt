@@ -1,0 +1,54 @@
+1) cat/etc/shells
+   chsh 
+   standaard = /bin/bash of /bin/sh
+
+
+2) egrep
+
+3)
+a  huidige directory (commando doet niets)
+b  naar parentdirectory vanuit huidge dir
+c  naar directory a startende vanuit root
+d  naar root
+e  naar directory a
+f  naar directory a, beginnende vanuit de parentdirectory van de huidige dir
+
+4) 
+wild cards gebruiken om bepaalde files beginnende met of eindigend met een bepaald gegeven op te zoeken
+
+5)Datum=$(date)
+
+
+6) 
+nieuwe extensies of packages te installeren, editen of verwijderen
+
+7)
+/home = 
+/etc/skel/ = bevat meestal verborgen bestanden met profieldata en standaard rechten voor applicaties
+
+11) /etc/shadow
+
+12)
+- laat alle bestanden zien in dir dat start met a en eindigt met b
+- laar alle bestanden zien in dir dat begint met a gevolgd door 1 character en eindigd met b
+
+13)
+zet permissies om van a.txt naar --wxr----x
+
+14)
+alle kleine letters in bestand a worden omgezet naar hoofdletters en in bestand b gestopt
+
+15)
+bij het ingeven van umask weten we welke permissies de gebruikers zoals user, group en other krijgen
+best umask -S ingeven voor symbolische uitvoer
+
+
+
+vraag 5
+ls .* -la -d  -d is enkel directories, geen inhoud. -l = longlisting -a = alle hidden files
+
+vraag 2
+alias gebruikers='cat /etc/passwd | cut -f 1 -d ':' /etc/passwd | tr [a-z] [A-Z] | tail -n 4'
+
+
+

@@ -1,0 +1,23 @@
+000 001 010   011    100    101    110    111
+0    1   2   1+2=3    4     4+1    4+2   4+2+1
+
+
+0010110101101   laatste getal is 2^0 elke plaats opgeschoven naar links wordt macht +1
+
+1 0 0 0 = 2^3
+
+
+
+
+omgekeerd =
+
+174/2 = 87 geen modulo over dus 0
+87/2 =43.5 overblijfsel = 1 
+43/2 = 21 1
+21/2 = 10 1
+10/2 = 5 0
+5/2 = 2 1
+2/2 = 1 0
+1/2 =   1
+
+code start met laatste waarde dus = 10101110

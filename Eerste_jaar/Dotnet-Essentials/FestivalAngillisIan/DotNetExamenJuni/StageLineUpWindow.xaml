@@ -1,0 +1,31 @@
+﻿<Window x:Class="DotNetExamenJuni.StageLineUpWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DotNetExamenJuni"
+        mc:Ignorable="d"
+        Title="Stage Line Up" Height="300" Width="312.121">
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Name="fileMenuItem" Header="_File">
+                <MenuItem Name="openMenuItem" Header="_Open" Click="openMenuItem_Click" />
+                <MenuItem Name="saveMenuItem" Header="_Save" Click="saveMenuItem_Click" />
+                <Separator/>
+                <MenuItem Name="exitMenuItem" Header="_Exit" Click="exitMenuItem_Click" />
+            </MenuItem>
+        </Menu>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="13*"/>
+                <ColumnDefinition Width="291*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock x:Name="stageTextBlock" Text="Stage" HorizontalAlignment="Left" Margin="25,10,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+            <ListBox x:Name="performListBox" HorizontalAlignment="Left" Height="172" Margin="9,56,0,0" VerticalAlignment="Top" Width="186" Grid.Column="1"/>
+            <Button x:Name="addButton" Content="Add" Margin="206,69,10,0" VerticalAlignment="Top" 
+                    IsEnabled="False" Grid.Column="1" Click="addButton_Click" />
+            <Button x:Name="removeButton" Content="Remove" HorizontalAlignment="Left" Margin="206,124,0,0" VerticalAlignment="Top" Width="75" 
+                    IsEnabled="False" Click="RemoveButton_Click" Grid.Column="1" />
+        </Grid>
+    </DockPanel>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H4\Opgaven\4_8\Opdracht_4_8\bin\Debug\Opdracht_4_8.exe.config
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H4\Opgaven\4_8\Opdracht_4_8\bin\Debug\Opdracht_4_8.exe
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H4\Opgaven\4_8\Opdracht_4_8\bin\Debug\Opdracht_4_8.pdb
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H4\Opgaven\4_8\Opdracht_4_8\obj\Debug\Opdracht_4_8.csprojResolveAssemblyReference.cache
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H4\Opgaven\4_8\Opdracht_4_8\obj\Debug\MainWindow.g.cs
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H4\Opgaven\4_8\Opdracht_4_8\obj\Debug\App.g.cs
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H4\Opgaven\4_8\Opdracht_4_8\obj\Debug\Opdracht_4_8_MarkupCompile.cache
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H4\Opgaven\4_8\Opdracht_4_8\obj\Debug\Opdracht_4_8_MarkupCompile.lref
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H4\Opgaven\4_8\Opdracht_4_8\obj\Debug\MainWindow.baml
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H4\Opgaven\4_8\Opdracht_4_8\obj\Debug\Opdracht_4_8.g.resources
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H4\Opgaven\4_8\Opdracht_4_8\obj\Debug\Opdracht_4_8.Properties.Resources.resources
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H4\Opgaven\4_8\Opdracht_4_8\obj\Debug\Opdracht_4_8.csproj.GenerateResource.Cache
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H4\Opgaven\4_8\Opdracht_4_8\obj\Debug\Opdracht_4_8.csproj.CoreCompileInputs.cache
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H4\Opgaven\4_8\Opdracht_4_8\obj\Debug\Opdracht_4_8.exe
+C:\Users\Joachim\Google Drive\Workspaces\.NET Essentials\H4\Opgaven\4_8\Opdracht_4_8\obj\Debug\Opdracht_4_8.pdb

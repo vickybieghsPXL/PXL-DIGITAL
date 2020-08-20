@@ -1,0 +1,40 @@
+router kan je best eerste ip adress geven dus bv 192.168.0.1 en de pcs de rest
+
+* VOLGORDE INSTELLINGEN IP ROUTER EN AANSLUITEN PC'S:
+-> enable; om in de exec mode te komen
+-> conf t; om de configuratie van de router te beginnen
+
+-> interface gigabitethernet 0/0/0; om de configuratie van poort 0 van router 1941 te starten
+-> ip address <ip address poort 1> <subnetmask>; om deze poort een ip te geven opdat de pc's kunnen verbinden
+-> no shutdown; zodat de poort open blijft en pc's verbonden blijven
+-> exit; om terug naar de configuratie te gaan
+
+-> interface gigabitethernet 0/0/1; om in de interface van poort 1 te komen
+-> ip address <ip address> <subnetmask>; ""
+-> no shutdown; " "
+-> uit de router gaan
+-> pc's ==> ip-address onder de poort aan dezelfde kant zetten en default gateway instellen (=poort ip address)
+
+Router instellen voor verbinding seriele poort
+* in enable!
+-> ip route <ip-adres van andere router> <subnetmask> <ip-adress van seriele poort>/ s0/0/0 (seriele poort)
+* voor elke poort! BV.: oef PT
+-> in router -> enable -> conf t
+-> ip route 172.16.0.0 255.255.0.0 80.80.0.2
+-> ip route 172.17.0.0 255.255.0.0 80.80.0.2
+-> exit
+* dan in de 2e router:
+-> enable -> conf t
+-> ip route 192.168.1.0 255.255.255.0 80.80.0.1
+-> ip route 192.168.2.0 255.255.255.0 80.80.0.1
+-> exit
+
+* als er 1 router bijgezet wordt, moeten er 5 extra routes geprogrammeerd worden!
+
+
+switch ip adress geven:
+enable
+conf t
+interface vlan 1
+ip adress <ip> <subnetmasker> 192.168.0.10 ofzo de pc's 0.2 en 0.3 enzovoort
+no shutdown is enkel voor router

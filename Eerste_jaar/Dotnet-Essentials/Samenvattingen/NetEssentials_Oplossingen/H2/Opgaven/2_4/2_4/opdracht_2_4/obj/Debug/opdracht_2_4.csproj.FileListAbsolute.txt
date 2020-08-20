@@ -1,0 +1,14 @@
+C:\Workspaces\.NET Essentials\H2\Opgaven\2_4\opdracht_2_4\obj\Debug\App.g.cs
+C:\Workspaces\.NET Essentials\H2\Opgaven\2_4\opdracht_2_4\obj\Debug\opdracht_2_4_MarkupCompile.cache
+C:\Workspaces\.NET Essentials\H2\Opgaven\2_4\opdracht_2_4\bin\Debug\opdracht_2_4.exe.config
+C:\Workspaces\.NET Essentials\H2\Opgaven\2_4\opdracht_2_4\bin\Debug\opdracht_2_4.exe
+C:\Workspaces\.NET Essentials\H2\Opgaven\2_4\opdracht_2_4\bin\Debug\opdracht_2_4.pdb
+C:\Workspaces\.NET Essentials\H2\Opgaven\2_4\opdracht_2_4\obj\Debug\MainWindow.g.cs
+C:\Workspaces\.NET Essentials\H2\Opgaven\2_4\opdracht_2_4\obj\Debug\opdracht_2_4_MarkupCompile.lref
+C:\Workspaces\.NET Essentials\H2\Opgaven\2_4\opdracht_2_4\obj\Debug\MainWindow.baml
+C:\Workspaces\.NET Essentials\H2\Opgaven\2_4\opdracht_2_4\obj\Debug\opdracht_2_4.g.resources
+C:\Workspaces\.NET Essentials\H2\Opgaven\2_4\opdracht_2_4\obj\Debug\opdracht_2_4.Properties.Resources.resources
+C:\Workspaces\.NET Essentials\H2\Opgaven\2_4\opdracht_2_4\obj\Debug\opdracht_2_4.csproj.GenerateResource.Cache
+C:\Workspaces\.NET Essentials\H2\Opgaven\2_4\opdracht_2_4\obj\Debug\opdracht_2_4.csproj.CoreCompileInputs.cache
+C:\Workspaces\.NET Essentials\H2\Opgaven\2_4\opdracht_2_4\obj\Debug\opdracht_2_4.exe
+C:\Workspaces\.NET Essentials\H2\Opgaven\2_4\opdracht_2_4\obj\Debug\opdracht_2_4.pdb

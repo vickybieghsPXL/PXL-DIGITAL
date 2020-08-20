@@ -1,0 +1,41 @@
+
+oef 11
+Get-childitem $env:appdata -directory | sort lastwritetime -descending | select-object -first5).fullname ----- of > file -----| set-content "$env:userprofile\desktop\$env:username appdata.txt"
+get-content of cat "$env:userprofile\desktop\$env:username appdata.txt" | copy-item -destination $env..... tot map\kopie -recursive -force
+
+poweruser menu, windowsknop en x of rechtsklik windows icoon
+
+windows services: winknop R, typ services.msc
+	-triggered start: wordt gestart door ander programma, bv windows update
+	-delayed: start auto opst na boot wanneer cpu tijd voor heeft
+	-automatisch: start op bij boot van pc
+	-manual: bij opstarten van de app worden eerst services gestart
+	aanpassen via eigenschappen
+
+remotedesktopprotocol RDP(builtinteamviewer van win10) pc mag niet in slaapstand vallen wel vergrendeld
+
+Admin tools kan je openen vanuit: of systeembeheer
+	- Start menu > Windows systeembeheer
+	- Configuratie panel (icon) > systeembeheer (admin tools)
+	- Settings > about >
+	- Via pad in Windows verkenner
+	(%ProgamData%\Microsoft\Windows\StartMenu\Programs\administratieve
+	Tools of C:\ProgramData\Microsoft\Windows\Start
+	Menu\Programs\Administrative Tools)
+	- Via een snelkoppeling op het bureaublad
+
+registry (windowskn R - regedit)
+	-aanpassingen in Users worden voor alle users op het systeem gewijzigd
+	-localmachine - SAM bevat alle logins en wachtwoorden
+
+windows opstarten
+	-veilige modus zonder internet
+	-veilige modus 
+
+characterlengte van ww voor nieuwe gebruiker aanmaken wijzigen naar minstens 2 chars command in powershell admin
+	Net accounts/MINPWLEN:2
+	
+encrypteren van files
+properties - advanced - versleutelen
+
+	
