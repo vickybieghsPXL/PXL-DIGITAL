@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MasterMind.Api\MasterMind.Api.csproj" />
+    <ProjectReference Include="..\MasterMind.Business\MasterMind.Business.csproj" />
+    <ProjectReference Include="..\MasterMind.Data\MasterMind.Data.csproj" />
+  </ItemGroup>
+
+</Project>

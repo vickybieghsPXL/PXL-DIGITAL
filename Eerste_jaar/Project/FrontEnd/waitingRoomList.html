@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mastermind - Waiting Rooms</title>
+    <link rel="icon" type="image/ico" href="CSS/Assets/iconLogo.png" />
+    <link rel="stylesheet" href="CSS/waitingRoomListStyle.css">
+    <script src="Scripts/waitingRoomList.js"></script>
+</head>
+<body>
+<div id="particles-js">
+    <canvas id="C"></canvas>
+</div>
+<script src="Scripts/waitingRoomParticles.js"></script>
+<div class="content">
+    <p>Available Rooms</p>
+    <div id="table1">
+    <div class="tbl-header">
+        <table cellpadding="0" cellspacing="0" border="0">
+            <thead>
+            <tr>
+                <th>Number</th>
+                <th>Name</th>
+                <th>Players In Lobby</th>
+                <th></th>
+            </tr>
+            </thead>
+        </table>
+    </div>
+    <div class="tbl-content">
+        <table cellpadding="0" cellspacing="0" border="0">
+            <tbody id="rooms">
+            </tbody>
+        </table>
+    </div>
+    </div>
+    <a href = "gamesettings.html" class ="ghost-button" id = "button2">
+        <span>Create Room</span> </a>
+</div>
+</body>
+</html>

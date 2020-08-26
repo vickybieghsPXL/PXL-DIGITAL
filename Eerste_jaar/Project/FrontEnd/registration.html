@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mastermind Registration</title>
+    <link rel="icon" type="image/ico" href="CSS/Assets/iconLogo.png" />
+    <link rel="stylesheet" href="CSS/registrationStyle.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
+    <script src="Scripts/registration.js"></script>
+</head>
+<div id="particles-js"></div>
+<script src="particles.min.js"></script>
+<script src="Scripts/registrationApp.js"></script>
+<body>
+    <img src="CSS/Assets/logo.png" alt="Logo">
+    <p id="error-message">An error has occured</p>
+    <div id="password-error">
+        <p id="lowercase">Password should contain at least 1 lower case character</p>
+        <p id="uppercase">Password should contain at least 1 upper case character</p>
+        <p id="number">Password should contain at least 1 number</p>
+        <p id="length">Password should be at least 6 characters long</p>
+        <p id="special">Password should contain one of the following $%#</p>
+    </div>
+    <form>
+        <input id="inputNickname" type="text" placeholder="Nickname" required>
+        <div></div>
+        <input id="inputEmail" type="text" placeholder="Email" required>
+        <div id="email-error"></div>
+        <input id="inputPassword" type="password" placeholder="Password" oninput="giveMissingChars()" required>
+        <div></div>
+        <input id="inputConfirmPassword" type="password" placeholder="Confirm Password" oninput="doPasswordsMatch()" required>
+        <div></div>
+        <button type="button" id="submit-button">Submit</button>
+        <div id="confirm-password-error">
+            <p id="is-correct">Passwords do not match</p>
+        </div>
+    </form>
+
+    <a id="to-login-page" href="login.html">To login</a>
+
+</body>
+</html>

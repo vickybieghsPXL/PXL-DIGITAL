@@ -1,0 +1,12 @@
+C:\Users\Thot\Desktop\Project\BackEnd\Mastermind - Backend\Source\MasterMind.Business\bin\Debug\netcoreapp2.2\MasterMind.Business.deps.json
+C:\Users\Thot\Desktop\Project\BackEnd\Mastermind - Backend\Source\MasterMind.Business\bin\Debug\netcoreapp2.2\MasterMind.Business.dll
+C:\Users\Thot\Desktop\Project\BackEnd\Mastermind - Backend\Source\MasterMind.Business\bin\Debug\netcoreapp2.2\MasterMind.Business.pdb
+C:\Users\Thot\Desktop\Project\BackEnd\Mastermind - Backend\Source\MasterMind.Business\bin\Debug\netcoreapp2.2\MasterMind.Data.dll
+C:\Users\Thot\Desktop\Project\BackEnd\Mastermind - Backend\Source\MasterMind.Business\bin\Debug\netcoreapp2.2\MasterMind.Data.pdb
+C:\Users\Thot\Desktop\Project\BackEnd\Mastermind - Backend\Source\MasterMind.Business\obj\Debug\netcoreapp2.2\MasterMind.Business.csprojAssemblyReference.cache
+C:\Users\Thot\Desktop\Project\BackEnd\Mastermind - Backend\Source\MasterMind.Business\obj\Debug\netcoreapp2.2\MasterMind.Business.csproj.CoreCompileInputs.cache
+C:\Users\Thot\Desktop\Project\BackEnd\Mastermind - Backend\Source\MasterMind.Business\obj\Debug\netcoreapp2.2\MasterMind.Business.AssemblyInfoInputs.cache
+C:\Users\Thot\Desktop\Project\BackEnd\Mastermind - Backend\Source\MasterMind.Business\obj\Debug\netcoreapp2.2\MasterMind.Business.AssemblyInfo.cs
+C:\Users\Thot\Desktop\Project\BackEnd\Mastermind - Backend\Source\MasterMind.Business\obj\Debug\netcoreapp2.2\MasterMind.Business.csproj.CopyComplete
+C:\Users\Thot\Desktop\Project\BackEnd\Mastermind - Backend\Source\MasterMind.Business\obj\Debug\netcoreapp2.2\MasterMind.Business.dll
+C:\Users\Thot\Desktop\Project\BackEnd\Mastermind - Backend\Source\MasterMind.Business\obj\Debug\netcoreapp2.2\MasterMind.Business.pdb

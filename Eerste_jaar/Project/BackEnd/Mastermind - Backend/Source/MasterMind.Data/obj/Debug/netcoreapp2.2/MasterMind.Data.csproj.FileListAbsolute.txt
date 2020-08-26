@@ -1,0 +1,9 @@
+C:\Users\Thot\Desktop\Project\BackEnd\Mastermind - Backend\Source\MasterMind.Data\bin\Debug\netcoreapp2.2\MasterMind.Data.deps.json
+C:\Users\Thot\Desktop\Project\BackEnd\Mastermind - Backend\Source\MasterMind.Data\bin\Debug\netcoreapp2.2\MasterMind.Data.dll
+C:\Users\Thot\Desktop\Project\BackEnd\Mastermind - Backend\Source\MasterMind.Data\bin\Debug\netcoreapp2.2\MasterMind.Data.pdb
+C:\Users\Thot\Desktop\Project\BackEnd\Mastermind - Backend\Source\MasterMind.Data\obj\Debug\netcoreapp2.2\MasterMind.Data.csprojAssemblyReference.cache
+C:\Users\Thot\Desktop\Project\BackEnd\Mastermind - Backend\Source\MasterMind.Data\obj\Debug\netcoreapp2.2\MasterMind.Data.csproj.CoreCompileInputs.cache
+C:\Users\Thot\Desktop\Project\BackEnd\Mastermind - Backend\Source\MasterMind.Data\obj\Debug\netcoreapp2.2\MasterMind.Data.AssemblyInfoInputs.cache
+C:\Users\Thot\Desktop\Project\BackEnd\Mastermind - Backend\Source\MasterMind.Data\obj\Debug\netcoreapp2.2\MasterMind.Data.AssemblyInfo.cs
+C:\Users\Thot\Desktop\Project\BackEnd\Mastermind - Backend\Source\MasterMind.Data\obj\Debug\netcoreapp2.2\MasterMind.Data.dll
+C:\Users\Thot\Desktop\Project\BackEnd\Mastermind - Backend\Source\MasterMind.Data\obj\Debug\netcoreapp2.2\MasterMind.Data.pdb

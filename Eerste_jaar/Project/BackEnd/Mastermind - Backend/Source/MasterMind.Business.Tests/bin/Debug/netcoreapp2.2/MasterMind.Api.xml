@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MasterMind.Api</name>
+    </assembly>
+    <members>
+        <member name="M:MasterMind.Api.Controllers.AuthenticationController.Register(MasterMind.Api.Models.RegisterModel)">
+            <summary>
+            Registers a new user in the database.
+            </summary>
+        </member>
+        <member name="M:MasterMind.Api.Controllers.AuthenticationController.CreateToken(MasterMind.Api.Models.LoginModel)">
+            <summary>
+            Returns an object containing a (bearer) token that will be valid for 60 minutes.
+            The token should be added in the Authorization header of each http request for which the user must be authenticated.
+            The Id and NickName of the player are also included in the object.
+            <example>Authorization bearer [token]</example>
+            </summary>
+        </member>
+        <member name="M:MasterMind.Api.Controllers.GamesController.StartNewGame(System.Guid)">
+            <summary>
+            Starts a new game using waiting room info
+            </summary>
+        </member>
+        <member name="M:MasterMind.Api.Controllers.GamesController.GetGame(System.Guid)">
+            <summary>
+            Returns the game with a matching id.
+            </summary>
+            <param name="id">The identifier of the game</param>
+        </member>
+        <member name="M:MasterMind.Api.Controllers.GamesController.CanGuessCode(System.Guid,System.Int32)">
+            <summary>
+            Checks if it is possible for the logged in player to do a guess.
+            Ceveral codes can be returned 
+            1 (Ok): the player can do a guess.
+            500 (MustWaitOnOthers): the player must wait on other players to do a guess.
+            501 (MaximumReached): the player has made the maximum allowed guesses for the round. The player should wait for the round to start
+            502 (RoundNotStarted): the round is not yet started.
+            503 (NotAllowedDueToGameStatus): the state of the game prohibits the guess. E.g. the game could be in a new round. 
+            </summary>
+            <param name="id">The identifier of the game</param>
+            <param name="roundNumber">The number of the round the player wants to make a guess for.</param>
+        </member>
+        <member name="M:MasterMind.Api.Controllers.GamesController.GuessCode(System.Guid,MasterMind.Api.Models.GuessModel)">
+            <summary>
+            Executes a guess for the logged in player in the current round of the game.
+            An object is returned that contains the amount of colors on the exact correct position 
+            and the amount of colors that are correct but on the wrong position.
+            </summary>
+            <param name="id">The identifier of the game</param>
+            <param name="model">The colors of the guess</param>
+        </member>
+        <member name="M:MasterMind.Api.Controllers.GamesController.GetGameStatus(System.Guid)">
+            <summary>
+            Returns the status of a game that can be used to 
+            - check if the game has a winner (GameOver)
+            - get the current round number of the game
+            - check the winners of the individual rounds
+            </summary>
+            <param name="id">The identifier of the game</param>
+        </member>
+        <member name="M:MasterMind.Api.Controllers.WaitingRoomsController.GetAvailableWaitingRooms">
+            <summary>
+            Returns all available waiting rooms.
+            </summary>
+        </member>
+        <member name="M:MasterMind.Api.Controllers.WaitingRoomsController.StartNewWaitingRoom(MasterMind.Business.Models.WaitingRoomCreationModel)">
+            <summary>
+            Adds a new waiting room to the application
+            </summary>
+        </member>
+        <member name="M:MasterMind.Api.Controllers.WaitingRoomsController.GetWaitingRoom(System.Guid)">
+            <summary>
+            Returns the waiting room with a matching id.
+            </summary>
+        </member>
+        <member name="M:MasterMind.Api.Controllers.WaitingRoomsController.JoinWaitingRoom(System.Guid)">
+            <summary>
+            Adds the user (that sends the http request) to the room.
+            </summary>
+        </member>
+        <member name="M:MasterMind.Api.Controllers.WaitingRoomsController.LeaveWaitingRoom(System.Guid)">
+            <summary>
+            Removes the user (that sends the http request) from the room
+            </summary>
+        </member>
+    </members>
+</doc>
